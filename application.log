@@ -1,0 +1,39 @@
+2023-01-04 13:39:56,934  INFO [main] SauceDemo_30thJuly:30 - browser is opened
+2023-01-04 13:39:57,066  INFO [main] SauceDemo_30thJuly:33 - browser is maximized
+2023-01-04 13:39:57,642  INFO [main] SauceDemo_30thJuly:38 - url is opened
+2023-01-04 13:39:58,044  INFO [main] SauceDemo_30thJuly:51 - Went on HomePage
+2023-01-04 13:39:58,537  INFO [main] SauceDemo_30thJuly:63 - browser is closed
+2023-01-04 13:39:58,538  INFO [main] SauceDemo_30thJuly:65 - End of Program
+2023-01-04 13:39:59,321  INFO [main] SauceDemo_30thJuly:30 - browser is opened
+2023-01-04 13:39:59,443  INFO [main] SauceDemo_30thJuly:33 - browser is maximized
+2023-01-04 13:39:59,825  INFO [main] SauceDemo_30thJuly:38 - url is opened
+2023-01-04 13:40:00,139  INFO [main] SauceDemo_30thJuly:51 - Went on HomePage
+2023-01-04 13:40:00,626  INFO [main] SauceDemo_30thJuly:63 - browser is closed
+2023-01-04 13:40:00,626  INFO [main] SauceDemo_30thJuly:65 - End of Program
+2023-01-04 13:40:01,359  INFO [main] SauceDemo_30thJuly:30 - browser is opened
+2023-01-04 13:40:01,487  INFO [main] SauceDemo_30thJuly:33 - browser is maximized
+2023-01-04 13:40:02,028  INFO [main] SauceDemo_30thJuly:38 - url is opened
+2023-01-04 13:40:02,351  INFO [main] SauceDemo_30thJuly:51 - Went on HomePage
+2023-01-04 13:40:02,529  INFO [main] SauceDemo_30thJuly:63 - browser is closed
+2023-01-04 13:40:02,529  INFO [main] SauceDemo_30thJuly:65 - End of Program
+2023-01-04 14:03:38,439  INFO [main] SauceDemo_30thJuly:30 - browser is opened
+2023-01-04 14:03:38,567  INFO [main] SauceDemo_30thJuly:33 - browser is maximized
+2023-01-04 14:03:41,049  INFO [main] SauceDemo_30thJuly:38 - url is opened
+2023-01-04 14:03:41,387  INFO [main] SauceDemo_30thJuly:51 - Went on HomePage
+2023-01-04 14:03:41,660  INFO [main] SauceDemo_30thJuly:25 - Log Out Test Case passed
+2023-01-04 14:03:41,829  INFO [main] SauceDemo_30thJuly:63 - browser is closed
+2023-01-04 14:03:41,830  INFO [main] SauceDemo_30thJuly:65 - End of Program
+2023-01-04 14:03:42,550  INFO [main] SauceDemo_30thJuly:30 - browser is opened
+2023-01-04 14:03:42,677  INFO [main] SauceDemo_30thJuly:33 - browser is maximized
+2023-01-04 14:03:43,093  INFO [main] SauceDemo_30thJuly:38 - url is opened
+2023-01-04 14:03:43,413  INFO [main] SauceDemo_30thJuly:51 - Went on HomePage
+2023-01-04 14:03:43,738  INFO [main] SauceDemo_30thJuly:20 - Add to Cart AllProduct TestCase Passed
+2023-01-04 14:03:43,903  INFO [main] SauceDemo_30thJuly:63 - browser is closed
+2023-01-04 14:03:43,903  INFO [main] SauceDemo_30thJuly:65 - End of Program
+2023-01-04 14:03:44,616  INFO [main] SauceDemo_30thJuly:30 - browser is opened
+2023-01-04 14:03:44,747  INFO [main] SauceDemo_30thJuly:33 - browser is maximized
+2023-01-04 14:03:45,101  INFO [main] SauceDemo_30thJuly:38 - url is opened
+2023-01-04 14:03:45,420  INFO [main] SauceDemo_30thJuly:51 - Went on HomePage
+2023-01-04 14:03:45,430  INFO [main] SauceDemo_30thJuly:17 - LogIn Test Case is passed
+2023-01-04 14:03:45,573  INFO [main] SauceDemo_30thJuly:63 - browser is closed
+2023-01-04 14:03:45,574  INFO [main] SauceDemo_30thJuly:65 - End of Program
